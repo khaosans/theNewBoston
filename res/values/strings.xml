@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HelloWorld</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Your total is 0</string>
+    <string name="button1">add one</string>
+    <string name="button2">subtract one</string>
+    <string name="helper">Type a Command</string>
+
+</resources>
